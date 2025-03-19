@@ -77,3 +77,14 @@ This presentation summarizes the project findings, including:
 ✅ **Data Preparation:** Proper **data wrangling and EDA** were crucial for building an accurate and reliable model.  
 
 These findings provide **valuable insights for SpaceX** and other stakeholders in optimizing **future launch operations and improving mission success rates**.  
+
+## **How to Run the Project**  
+
+### **1. Clone the Repository**  
+```bash
+git clone https://github.com/your-repo/spacex-landing-prediction.git
+cd spacex-landing-prediction
+
+2. Install Dependencies
+Ensure you have Python and Jupyter Notebook installed.
+Then install the required Python packages:
