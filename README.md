@@ -1,11 +1,11 @@
 # 🚀 SpaceX Falcon 9 First Stage Landing Prediction  
 
-## **Project Description**  
-This project is part of the **IBM Data Science Capstone**. The goal is to predict whether the first stage of SpaceX’s Falcon 9 rocket will successfully land after launch.  
+ /nb## **Project Description**  
+This /nb project is part of the **IBM Data Science Capstone**. The goal is to predict whether the first stage of SpaceX’s Falcon 9 rocket will successfully land after launch.  /nb 
 
-SpaceX offers Falcon 9 launches for approximately **$62 million**, while other providers charge over **$165 million**. A significant portion of the savings comes from the **reusability of the first stage**.  
+ /nbSpaceX offers Falcon 9 launches for approximately **$62 million**, while other providers charge over **$165 million**. A significant portion of the savings comes from the  /nb**reusability of the first stage**.  
 
-By predicting the landing success of the first stage, we can estimate the cost of a launch and help alternative companies **compete against SpaceX** in the rocket launch market.  
+ /nbBy predicting the landing success of the first stage, we can estimate the cost of a launch and help alternative companies **compete against SpaceX** in the rocket launch market.  
 
 ## **Project Structure**  
 The project is organized into several folders, each containing specific components:  
